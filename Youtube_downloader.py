@@ -12,12 +12,12 @@ def download_video(url, resolution):
             video = filtered_videos[0]
             print(f"Downloading '{yt.title}'...(Resolution: {video.resolution})")
             video.download()
-            print("Download completed!!")
+            print("Download completed!")
         else:
             print(f"Video with resolution {resolution} not found!")
     
     except Exception as e:
-        print("Error: ", e)
+        print("Error:", str(e))
 
 
 # Prompt the user to enter the video url and quality
