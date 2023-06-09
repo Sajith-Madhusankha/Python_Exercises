@@ -9,3 +9,5 @@ Use them for **educational purposes ONLY!**
 -[Youtube Downloader using pytube library](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/Youtube_downloader.py)
 
 -[Simple Calculator v1](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/simple_cal.py)
+
+-[Shape Drawer V1](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/shape_drawer.py)
