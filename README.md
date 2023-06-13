@@ -13,3 +13,5 @@ Use them for **educational purposes ONLY!**
     - [Square root](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/sqr_root.py)
 
 - [Shape Drawer V1](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/shape_drawer.py)
+
+-[Get Weather information Using OpenWeatherMaps API key](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/weather.py)
