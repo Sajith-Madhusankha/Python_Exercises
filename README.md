@@ -14,4 +14,4 @@ Use them for **educational purposes ONLY!**
 
 - [Shape Drawer V1](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/shape_drawer.py)
 
--[Get Weather information Using OpenWeatherMaps API key](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/weather.py)
+- [Get Weather information Using OpenWeatherMaps API key](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/weather.py)
