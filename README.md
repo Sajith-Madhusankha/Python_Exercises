@@ -16,4 +16,4 @@ Use them for **educational purposes ONLY!**
 
 - [Get Weather information Using OpenWeatherMaps API key](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/weather.py)
 
--[Simple Unit Converter](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/unit_converter.py)
+- [Simple Unit Converter](https://github.com/Sajith-Madhusankha/Python_Exercises/blob/main/unit_converter.py)
